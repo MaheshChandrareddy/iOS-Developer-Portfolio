@@ -30,8 +30,9 @@ A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app 
 ---
 
 ## 🚀 Features  
-🎙️ Audio Recording with AVFoundation – Implemented AVAudioRecorder for recording voice with start, pause, and stop functionality.
-📀 Store & Manage Audio with Core Data – Saved recorded files along with metadata (filename, duration, timestamp) using Core Data.
-📋 Display & Playback Audio List – Showed recorded and imported audio files in a list using UITableView, with play/pause functionality.
-🗑️ Delete Audio Files – Provided an option to remove recordings from both Core Data and local storage.
-📂 Import Audio from Device – Allowed users to select and display external audio files from the file system.
+- 🎙️ **Audio Recording with AVFoundation** – Implemented `AVAudioRecorder` for recording voice with start, pause, and stop functionality.  
+- 📀 **Store & Manage Audio with Core Data** – Saved recorded files along with metadata (filename, duration, timestamp) using `Core Data`.  
+- 📋 **Display & Playback Audio List** – Showed recorded and imported audio files in a list using `UITableView`, with play/pause functionality.  
+- 🗑️ **Delete Audio Files** – Provided an option to remove recordings from both `Core Data` and local storage.  
+- 📂 **Import Audio from Device** – Allowed users to select and display external audio files from the file system.  
+
